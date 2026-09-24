@@ -1,4 +1,4 @@
-# NovaPulse - Full-Stack Authentication & Login System (Week 11)
+# NovaPulse - Full-Stack Authentication & Login System
 
 An original, modern full-stack web application demonstrating secure client-server authentication integration using **React (Vite)** on the frontend and **Node.js (Express)** on the backend.
 
